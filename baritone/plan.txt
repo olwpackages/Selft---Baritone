@@ -1,0 +1,13 @@
+План
+
+Русская версия
+
+1. Пофиксить дёргание и неправильную анимацию кирки во время движения и добычи блоков.
+2. Сделать плавную и естественную камеру без рывков и резких микроповоротов.
+3. Добавить кастомную систему шрифтов для GUI и интерфейса мода.
+
+English version
+
+1. Fix pickaxe dragging and incorrect pickaxe animation while moving and mining blocks.
+2. Create a smooth and natural camera system without jerks or sharp micro-rotations.
+3. Add a custom font system for the mod GUI and interface.

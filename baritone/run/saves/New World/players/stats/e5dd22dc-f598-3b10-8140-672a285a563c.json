@@ -1,0 +1,24 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:stone": 39,
+      "minecraft:diamond_ore": 13
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 1392,
+      "minecraft:walk_one_cm": 1034,
+      "minecraft:leave_game": 1,
+      "minecraft:walk_under_water_one_cm": 513,
+      "minecraft:play_time": 1392,
+      "minecraft:jump": 15,
+      "minecraft:time_since_death": 1392,
+      "minecraft:sprint_one_cm": 536,
+      "minecraft:swim_one_cm": 174,
+      "minecraft:total_world_time": 1398,
+      "minecraft:walk_on_water_one_cm": 52,
+      "minecraft:crouch_one_cm": 1089,
+      "minecraft:sneak_time": 302
+    }
+  },
+  "DataVersion": 4903
+}

@@ -1,0 +1,5 @@
+/mine
+/mine 5
+/gamemode survival
+/gamemode adventure
+/кез

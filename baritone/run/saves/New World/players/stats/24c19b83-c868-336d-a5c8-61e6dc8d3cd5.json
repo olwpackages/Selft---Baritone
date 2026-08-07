@@ -1,0 +1,29 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:grass_block": 4,
+      "minecraft:diamond_pickaxe": 1,
+      "minecraft:diamond_ore": 3
+    },
+    "minecraft:picked_up": {
+      "minecraft:diamond": 1
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 1952,
+      "minecraft:time_since_rest": 2042,
+      "minecraft:walk_one_cm": 3547,
+      "minecraft:total_world_time": 2203,
+      "minecraft:leave_game": 2,
+      "minecraft:fly_one_cm": 13905,
+      "minecraft:crouch_one_cm": 69,
+      "minecraft:sneak_time": 63,
+      "minecraft:play_time": 2042,
+      "minecraft:jump": 11,
+      "minecraft:time_since_death": 2042
+    },
+    "minecraft:mined": {
+      "minecraft:diamond_ore": 1
+    }
+  },
+  "DataVersion": 4903
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "baritone",
+  "version": "${version}",
+  "name": "Baritone Reborn",
+  "description": "A clean, extensible mining bot for Fabric.",
+  "authors": ["Baritone Reborn Team"],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-datagen": [
+      "baritone.client.BaritoneDataGenerator"
+    ],
+    "client": [
+      "baritone.client.BaritoneClient"
+    ],
+    "main": [
+      "baritone.BaritoneMod"
+    ]
+  },
+  "mixins": [
+    "baritone.mixins.json",
+    {
+      "config": "baritone.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

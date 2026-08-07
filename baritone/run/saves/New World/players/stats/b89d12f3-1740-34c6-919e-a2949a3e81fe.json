@@ -1,0 +1,26 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 270,
+      "minecraft:time_since_rest": 2251,
+      "minecraft:walk_one_cm": 2399,
+      "minecraft:total_world_time": 2259,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 9898,
+      "minecraft:crouch_one_cm": 138,
+      "minecraft:sneak_time": 51,
+      "minecraft:play_time": 2251,
+      "minecraft:jump": 24,
+      "minecraft:time_since_death": 2251
+    },
+    "minecraft:picked_up": {
+      "minecraft:amethyst_shard": 2
+    },
+    "minecraft:used": {
+      "minecraft:stone": 18,
+      "minecraft:diamond_ore": 29,
+      "minecraft:dirt": 31
+    }
+  },
+  "DataVersion": 4903
+}

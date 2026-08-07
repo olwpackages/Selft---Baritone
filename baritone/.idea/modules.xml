@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/baritone.client.iml" filepath="$PROJECT_DIR$/.idea/modules/baritone.client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/baritone.main.iml" filepath="$PROJECT_DIR$/.idea/modules/baritone.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/baritone.test.iml" filepath="$PROJECT_DIR$/.idea/modules/baritone.test.iml" />
+    </modules>
+  </component>
+</project>

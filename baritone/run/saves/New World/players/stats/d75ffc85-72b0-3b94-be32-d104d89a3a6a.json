@@ -1,0 +1,22 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:stone": 43,
+      "minecraft:diamond_ore": 15
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 167,
+      "minecraft:time_since_rest": 1511,
+      "minecraft:walk_one_cm": 1594,
+      "minecraft:total_world_time": 1522,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 225,
+      "minecraft:crouch_one_cm": 453,
+      "minecraft:sneak_time": 146,
+      "minecraft:play_time": 1511,
+      "minecraft:jump": 22,
+      "minecraft:time_since_death": 1511
+    }
+  },
+  "DataVersion": 4903
+}
